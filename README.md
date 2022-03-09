@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm George-David</h1>
 <h3 align="center">Just another wanna be dev guy.</h3>
-
+<h3 align="center" href="https://gitkraken.com/geoapos">GitKraken Ambassador</h3>
 - 🔭 I’m currently working on **my thesis**
 
 - 🌱 I’m currently learning **the MERN stack and Android Studio.**
