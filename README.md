@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm George-David</h1>
 <h3 align="center">Just another wanna be dev guy.</h3>
-<a href="https://gitkraken.com/geoapos"><h4 align="center">GitKraken Ambassador</h3> </a>
 - 🔭 I’m currently working on **my thesis**
 
 - 🌱 I’m currently learning **the MERN stack and Android Studio.**
@@ -21,4 +20,4 @@
 
 [![GitKraken shield](https://img.shields.io/badge/GitKraken-Legendary%20Git%20Tools-teal?style=plastic&logo=gitkraken)](https://gitkraken.com/invite/<your-referral-code>)
 
-This repo was made with love using [GitKraken Client](https://gitkraken.com/geoapos). 
+This repo was made with love using [GitKraken Client](https://gitkraken.link/geoapos). 
