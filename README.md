@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GeorgeApos](https://github.com/GeorgeApos)
 
-- 📝 I regularly write articles on [https://georgeapos.github.io/](https://georgeapos.github.io/)
+- 📝 I regularly write articles on [https://georgeapos.blogspot.com/](https://georgeapos.blogspot.com/)
 
 - 📫 How to reach me **geoapostolidis999@gmail.com**
 
