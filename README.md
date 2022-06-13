@@ -22,7 +22,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeApos&theme=nord&show_icons=true)
 
-    <div align="right">
+ <div align="right">
       div align="right"
       
 
