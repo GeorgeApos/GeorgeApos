@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm George-David</h1>
 <h3 align="center">Just another wanna be dev guy.</h3>
 
-- 🔭 I’m currently working on **my thesis**
+- 🔭 I’m currently working on **a big University project**
 
-- 🌱 I’m currently learning **the MERN stack and Android Studio.**
+- 🌱 I’m currently learning **React and Spring.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GeorgeApos](https://github.com/GeorgeApos) and [https://gitlab.com/GeorgeApos](https://gitlab.com/GeorgeApos)
 
