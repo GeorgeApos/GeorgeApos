@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React and Spring.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GeorgeApos](https://github.com/GeorgeApos) and [https://gitlab.com/GeorgeApos](https://gitlab.com/GeorgeApos)
+- 👨‍💻 All of my projects are available at **[https://github.com/GeorgeApos](https://github.com/GeorgeApos) and [https://gitlab.com/GeorgeApos](https://gitlab.com/GeorgeApos)**
 
-- 📝 I regularly write articles on Dot Geek, hosted by my personal page at [https://georgeapos.github.io//](https://georgeapos.github.io/)
+- 📝 I regularly write articles on Dot Geek, hosted by my personal page at **[https://georgeapos.github.io//](https://georgeapos.github.io/)**
 
 - 📫 How to reach me **geoapostolidis999@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/george-david-apostolidis/](https://www.linkedin.com/in/george-david-apostolidis/)
+- 📄 Know about my experiences **[https://www.linkedin.com/in/george-david-apostolidis/](https://www.linkedin.com/in/george-david-apostolidis/)**
 <p align="left">
 </p>
 
