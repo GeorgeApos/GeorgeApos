@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the MERN stack and Android Studio.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GeorgeApos](https://github.com/GeorgeApos)
+- 👨‍💻 All of my projects are available at [https://github.com/GeorgeApos](https://github.com/GeorgeApos) and [https://gitlab.com/GeorgeApos](https://gitlab.com/GeorgeApos)
 
 - 📝 I regularly write articles on Dot Geek, hosted by my personal page at [https://georgeapos.github.io//](https://georgeapos.github.io/)
 
