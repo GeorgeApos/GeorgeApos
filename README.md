@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my thesis**.
 
-- 🌱 I’m currently learning **Docker, Kubernetes and Go**
+- 🌱 I’m currently learning **Docker, Kubernetes and Go**.
 
 - 👨‍💻 All of my projects are available at **[https://github.com/GeorgeApos](https://github.com/GeorgeApos) and [https://gitlab.com/GeorgeApos](https://gitlab.com/GeorgeApos)**
 
