@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm George - David</h1>
 <h3 align="center">Software Developer | Research Associate</h3>
+<h4 align="center">Information Technologies Institute | Center for Research and Technology Hellas</h4>
+<h5 align="center">https://www.iti.gr/iti/</h5>
+
 
 <p align="center">
 - 👨‍💻 Some of my projects are also available at Gitlab: https://gitlab.com/GeorgeApos
@@ -8,7 +11,7 @@
   <br>
   📄 Know about my experiences https://www.linkedin.com/in/geoapos/
   <br>
-  📫 How to reach me geoapostolidis999@gmail.com
+  📫 How to reach me geoapostolidis999@gmail.com | mai24002@uom.edu.gr | geoapos@iti.gr
   <br>
 </p>
 
