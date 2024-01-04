@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm George - David</h1>
-<h3 align="center">Software Developer | Research Associate</h3>
-<h4 align="center">Information Technologies Institute | Center for Research and Technology Hellas</h4>
-<h5 align="center">https://www.iti.gr/iti/</h5>
+<h2 align="center">Software Developer | Research Associate</h3>
+<h3 align="center"><a href="https://www.certh.gr/">Center for Research and Technology Hellas</a></h4>
 
 
 <p align="center">
