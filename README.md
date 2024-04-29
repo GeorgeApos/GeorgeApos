@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George - David</h1>
-<h3 align="center">Software Developer | Research Associate</h2>
+<h3 align="center">Software Engineer | Research Associate</h2>
 <h4 align="center"><a href="https://www.certh.gr/">Center for Research and Technology Hellas</a></h3>
 
 <p align="center">
