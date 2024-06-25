@@ -22,3 +22,16 @@
     <a href="https://stackoverflow.com/users/15485619" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15485619" height="20" width="20"></a>
     <a href="https://www.leetcode.com/georgeapos" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="georgeapos" height="20" width="20"></a>
 </p>
+<hr>
+
+<table>
+  <tr>
+    <td><img height="200em" width="410vw" src="http://github-readme-streak-stats.herokuapp.com?user=GeorgeApos&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D"></td>
+    <td><img height="200em" width="410vw" src="https://github-readme-stats.vercel.app/api?username=GeorgeApos&hide_border=true&count_private=true&show_icons=true&theme=tokyonight" alt="stats"></td>
+    <td><img height="220em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeApos&show_icons=true&locale=en&layout=compact&hide_border=true&theme=tokyonight" alt="top-langs"></td>
+  </tr>
+</table>
+
+<hr>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GeorgeApos" alt="GeorgeApos" /></a> </p>
