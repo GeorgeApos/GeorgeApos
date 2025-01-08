@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm George - David</h1>
-<h3 align="center">Software Engineer | Research Associate</h2>
-<h4 align="center"><a href="https://www.certh.gr/">Center for Research and Technology Hellas</a></h3>
+<h3 align="center">Software Engineer | Research Associate</h3>
+<h4 align="center">
+    <a href="https://www.uom.gr/">University of Macedonia</a> |
+     <a href="https://www.certh.gr/">Center for Research and Technology Hellas</a>
+</h4>
+
+
 
 <p align="center">
     📚 Presently enrolled in the <a href="https://mai.uom.gr/frontend/index.php">MSc program for Software Development and Cloud</a> at the <a href="https://www.uom.gr/">University of Macedonia</a>.
