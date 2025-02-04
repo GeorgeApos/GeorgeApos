@@ -8,8 +8,6 @@
 
 
 <p align="center">
-    📚 Presently enrolled in the <a href="https://mai.uom.gr/frontend/index.php">MSc program for Software Development and Cloud</a> at the <a href="https://www.uom.gr/">University of Macedonia</a>.
-    <br><br>
     👨‍💻 Some of my projects are also available at GitLab: <a href="https://gitlab.com/GeorgeApos">GeorgeApos</a>.
     <br><br>
     📝 I regularly write articles on <a href="https://opensource.uom.gr/index.php/blog/">Open Source UoM Blog</a>.
