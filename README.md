@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm George - David</h1>
-<h3 align="center">Software Engineer | Research Associate</h3>
-<h4 align="center">
-    <a href="https://www.uom.gr/">University of Macedonia</a> |
-     <a href="https://www.certh.gr/">Center for Research and Technology Hellas</a>
-</h4>
-
-
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
     📄 Know about my experiences <a href="https://www.linkedin.com/in/geoapos/">on LinkedIn</a>.
     <br><br>
-    📫 How to reach me: geoapostolidis999@gmail.com | mai24002@uom.edu.gr | geoapos@iti.gr
+    📫 How to reach me: geoapostolidis999@gmail.com | mai24002@uom.edu.gr | george.apostolidis@wur.nl
     <br><br>
 </p>
 
